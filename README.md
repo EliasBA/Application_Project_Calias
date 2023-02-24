@@ -1,4 +1,4 @@
-# Test - Application Casias
+# Application Calias
 
 
 Create a minimal Point of Sale (POS) system using the Flask Soft UI Dashboard ([https://github.com/app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard)) as a base project or **a similar looking Theme**.
