@@ -1,7 +1,7 @@
 # Application Calias
 
 
-Create a minimal Point of Sale (POS) system using the Flask Soft UI Dashboard ([https://github.com/app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard)) as a base project or **a similar looking Theme**.
+Create a minimal Point of Sale (POS) system using the Flask Soft UI Dashboard ([https://github.com/app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard)) as a base project or **a similar looking Theme**. Flask Soft Ui Dashboard already includes many of the needed utillities for our system, it can be of great use.
  The system should have two pages: a product management page and a checkout page.
 
 **Product Management Page:**
